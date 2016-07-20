@@ -99,3 +99,4 @@ write.csv(X,file=mergedfile)
 ##
 aveX<-ddply(X,.(subjectid, activity),colwise(mean))
 write.csv(aveX,file=avemergedfile)
+write.table(aveX,file="TidyData.txt",row.names=FALSE)
