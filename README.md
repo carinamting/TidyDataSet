@@ -103,8 +103,10 @@ integer between 1 and 30 identifying user
 3. walking_downstairs  
 4. sitting  
 5. standing  
-6. laying  
-### colunmns 3 through 68   
+6. laying 
+
+### Measured data summaries: colunmns 3 through 68     
+
 These are a subset of the data collected from the smart phones sensors for various people performing certain types of ativities  
 X: mean and standard deviation for each data sample of sensor output per subject per activity collected data  
 aveX: mean over each sample in an activity for each subject corresponding to data described by dataframe X above  
