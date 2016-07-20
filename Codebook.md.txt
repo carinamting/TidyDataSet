@@ -1,4 +1,9 @@
 #### Both X and aveX have same column names: aveX is averaged for each subject activty
+These are the mean and standard deviation of various quantities measured from martphone sensors
+Suffix: 
+mean(): Mean value
+std(): Standard deviation
+see end of files for reproduction of original soure
 #####col.num	col.name
 1	subjectid  
 2	activity  
